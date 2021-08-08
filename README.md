@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Some facts about me:
-🌱 Currently learning HTML and CSS.
-💼 8 years experience in HR-field.
+<br>🌱 Currently learning HTML and CSS.
+<br>💼 8 years experience in HR-field.
 <hr>
 <p align="center">
   <i>Let's connect!</i>
