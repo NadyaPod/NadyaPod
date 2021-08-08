@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 Some facts about me:
 - 🌱 Currently learning HTML and CSS.
 - 💼 8 years experience in HR-field.
-
 <hr>
 <p align="center">
   <i>Let's connect!</i>
   <p align="center">
-    <a href="mailto:nagedgda.podycheva@gmail.com" alt="Gmail icon"><img src="https://github.com/NadyaPod/NadyaPod/blob/main/Icons/2993691_brand_brands_gmail_logo_logos_icon.png"></a>
     <a href="tg://resolve?domain=NadyaPod" alt="Telegram icon"><img src="https://github.com/NadyaPod/NadyaPod/blob/main/Icons/2613278_chat_chatting_cloud%20based_messenger_social%20media_icon.png"></a>
