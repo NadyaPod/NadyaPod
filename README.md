@@ -21,4 +21,4 @@ Some facts about me:
 <p align="center">
   <i>Let's connect!</i>
   <p align="center">
-    <a href="https://t.me/NadyaPod" alt="Telegram icon"><img src="https://github.com/NadyaPod/NadyaPod/blob/main/Icons/2613278_chat_chatting_cloud%20based_messenger_social%20media_icon.png"></a>
+    <a href="https://t.me/NadyaPod" target="_blank" alt="Telegram icon"><img src="https://github.com/NadyaPod/NadyaPod/blob/main/Icons/2613278_chat_chatting_cloud%20based_messenger_social%20media_icon.png"></a>
