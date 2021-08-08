@@ -1,4 +1,4 @@
-### Hi there and welcome 👋
+### Hi there and welcome <img src="https://github.com/NadyaPod/NadyaPod/blob/main/Icons/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" width="32" height="32"/>
 
 <!--
 **NadyaPod/NadyaPod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
