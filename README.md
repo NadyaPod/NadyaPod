@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Some facts about me:
-<br>🌱 Currently learning HTML and CSS.
+<br>🌱 Currently learning QA and Front-end.
 <br>💼 8 years experience in HR-field.
+<br>📝 [CV page](https://nadyapod.github.io/NadyaPod-CV-Page/)
 <hr>
 <p align="center">
   <i>Let's connect!</i>
