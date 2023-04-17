@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Some facts about me:
-<br>🌱 Currently learning Front-end and QA.
+<br>🌱 Looking for job-opportunities as an QA engineer.
 <br>💼 8 years experience in HR-field.
 <hr>
 <p align="center">
