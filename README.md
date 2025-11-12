@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Some facts about me:
+<!--Some facts about me:
 <br>🌱 Looking for a job-opportunities as a QA engineer.
 <br>💼 8 years experience in HR-field.
 <hr>
+-->
 <p align="center">
   <i>Let's connect!</i>
   <p align="center">
